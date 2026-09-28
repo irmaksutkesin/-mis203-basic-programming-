@@ -4,7 +4,7 @@ department = input("Enter your department:")
 github_username = input("Enter your github username:")
 goal = input("Enter your goal:")
 
-print("\n + "=")
+print("\n" + "=")
 print("        STUDENT INTRODUCTION CARD     ")
 print(f"Name:              {name}")
 print(f"Student ID:        {student_id}")
